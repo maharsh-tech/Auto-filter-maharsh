@@ -15,3 +15,4 @@ python-Levenshtein
 dnspython
 uvloop
 umongo<3.0.0
+motor umongo
